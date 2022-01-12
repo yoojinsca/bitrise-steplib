@@ -6,7 +6,7 @@ description: |
 website: https://github.com/yoojinsca/bitrise-testproject
 source_code_url: https://github.com/yoojinsca/bitrise-testproject
 support_url: https://github.com/yoojinsca/bitrise-testproject/issues
-published_at: 2022-01-12T17:08:19.273612+11:00
+published_at: 2022-01-12T17:20:44.061225+11:00
 source:
   git: https://github.com/yoojinsca/bitrise-testproject.git
   commit: 72ac8a44b4be923606c3f9fe39eabb0aa8b3eac5
